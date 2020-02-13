@@ -78,7 +78,8 @@ header a {
 }
 
 header a:hover {
-	color: yellow;
+	color: black;
+	font-weight: bold;
 }
 
 header div {
@@ -87,6 +88,12 @@ header div {
 
 header {
 	text-align: center;
+}
+
+button:hover {
+	color: silver;
+	background-color: black;
+	border-radius: 8px;
 }
 
 #links {
